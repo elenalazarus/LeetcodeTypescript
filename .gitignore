@@ -1,0 +1,8 @@
+# VS Code config
+.vscode
+
+# JS files
+dist
+
+#Main
+src/index.ts
